@@ -1,0 +1,30 @@
+{
+    "version": "2.0",
+    "frp_server": "",
+    "frp_port": "7000",
+    "auto_start": false,
+    "minimize_to_tray": false,
+    "auto_reconnect": true,
+    "timeout": "30",
+    "buffer_size": "8192",
+    "save_log": true,
+    "log_days": "7",
+    "theme": "light",
+    "language": "zh_CN",
+    "recent_servers": [],
+    "favorite_games": [
+        {
+            "name": "Minecraft Java版",
+            "port": 25565
+        },
+        {
+            "name": "Minecraft 基岩版",
+            "port": 19132
+        },
+        {
+            "name": "Terraria",
+            "port": 7777
+        }
+    ],
+    "port_mappings": []
+}
